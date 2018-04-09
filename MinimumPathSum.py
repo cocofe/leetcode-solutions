@@ -15,6 +15,7 @@ class Solution(object):
     Given the above grid map, return 7. Because the path 1→3→1→1→1 minimizes the sum.
 
     """
+
     def minPathSum(self, grid):
         """
         dp[i][j] 表示 i*j数组的最小路径和

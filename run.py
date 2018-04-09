@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from MinimumPathSum import Solution
+from Triangle import Solution
 
 if __name__ == '__main__':
     s = Solution()
