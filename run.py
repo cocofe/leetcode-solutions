@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from LongestPalindromicSubstring import Solution
+from PalindromeNumber import Solution
 
 if __name__ == '__main__':
     s = Solution()

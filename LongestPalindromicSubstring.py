@@ -14,7 +14,7 @@ class Solution(object):
         while 0 <= l and r < len(s) and s[l] == s[r]:
             l -= 1
             r += 1
-        print 
+        print s[l + 1:r]
         return s[l + 1:r]
 
     def test(self):
