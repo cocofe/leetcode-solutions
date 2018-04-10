@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from InterleavingString import Solution
+from DynamicProgramming.InterleavingString import Solution
 
 if __name__ == '__main__':
     s = Solution()

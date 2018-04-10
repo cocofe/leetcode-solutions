@@ -27,7 +27,7 @@ class Solution(object):
         else:
             return False
 
-    def isPalindrome_pro(self, x):
+    def isPalindrome2(self, x):
         if x < 0:
             return False
         y = 0
@@ -37,10 +37,11 @@ class Solution(object):
             tmp_x = tmp_x // 10
         return x == y
 
-
     def test(self):
         x = 21120
         print self.isPalindrome(x)
+
+
 
 
 
