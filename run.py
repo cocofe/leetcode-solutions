@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from Triangle import Solution
+from InterleavingString import Solution
 
 if __name__ == '__main__':
     s = Solution()
