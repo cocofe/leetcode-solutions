@@ -43,7 +43,7 @@ class Solution(object):
         :rtype: int
         """
         dp = defaultdict(lambda: defaultdict(int))
-        # init dp array
+        # init dp Array
         for x in range(len(s) + 1):
             dp[0][x] = 1
         for i, i_val in enumerate(t):
