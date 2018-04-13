@@ -30,16 +30,18 @@ class Solution(object):
         ans = [1]
         while count < n:
             r2, r3, r5 = 2 * ans[t2], 3 * ans[t3], 5 * ans[t5]
-            if min(r2, r3, r5) != ans[-1]:
+            ans_tmp = min(r2, r3, r5)
+            if ans_tmp != ans[-1]:
                 count += 1
-                ans.append(min(r2, r3, r5))
-            if r2 < min(r3, r5):
+                ans.append(ans_tmp)
+            if r2 == ans_tmp:
                 t2 += 1
-            elif r3 < r5:
+            elif r3 == ans_tmp:
                 t3 += 1
             else:
                 t5 += 1
         return ans[-1]
+
     def test(self):
-        n = 160
+        n = 1600
         print self.nthUglyNumber(n)
