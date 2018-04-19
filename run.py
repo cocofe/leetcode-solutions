@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from DynamicProgramming.CoinChange import Solution
+from DynamicProgramming.BestTimeToBuyAndSellStock import Solution
 
 
 if __name__ == '__main__':
