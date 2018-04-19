@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 
-from DynamicProgramming.UglyNumberII import Solution
+from DynamicProgramming.CoinChange import Solution
+
 
 if __name__ == '__main__':
     s = Solution()
