@@ -12,7 +12,7 @@ class Solution(object):
         解题思路比较简单:
         - 对tokens进行升序排序
         - 只有power不够用的时候,才考虑拿point去换, 否则一直拿power去换point
-        
+
         :type tokens: List[int]
         :type P: int
         :rtype: int
