@@ -1,7 +1,5 @@
 # -*- coding: UTF-8 -*-
-
-from DynamicProgramming.BestTimeToBuyAndSellStockII import Solution
-
+from DynamicProgramming.WordBreak import Solution
 
 if __name__ == '__main__':
     s = Solution()
