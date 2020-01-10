@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from DynamicProgramming.WordBreak import Solution
+from DynamicProgramming.CountSquareSubmatriceswithAllOnes import Solution
 
 if __name__ == '__main__':
     s = Solution()
