@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from DynamicProgramming.CountSquareSubmatriceswithAllOnes import Solution
+from Array.RemoveElement import Solution
 
 if __name__ == '__main__':
     s = Solution()
