@@ -7,7 +7,7 @@ class Solution(object):
     """
     Given a m * n matrix of ones and zeros, return how many square submatrices have all ones.
 
- 
+
     Example 1:
 
     Input: matrix =
