@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-from Array.RemoveElement import Solution
+from String.Implement_strStr import Solution
 
 if __name__ == '__main__':
     s = Solution()
