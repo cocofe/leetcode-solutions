@@ -1,9 +1,9 @@
 
 # @Title: 最长公共子序列 (Longest Common Subsequence)
 # @Author: cocofe
-# @Date: 2020-12-12 01:00:24
-# @Runtime: 340 ms
-# @Memory: 77.9 MB
+# @Date: 2021-04-03 00:45:23
+# @Runtime: 324 ms
+# @Memory: 77.8 MB
 
 class Solution(object):
     def longestCommonSubsequence(self, text1, text2):
