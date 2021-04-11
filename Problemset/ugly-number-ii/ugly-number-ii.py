@@ -1,35 +1,26 @@
 
 # @Title: 丑数 II (Ugly Number II)
 # @Author: cocofe
-# @Date: 2018-04-12 16:03:54
-# @Runtime: 321 ms
-# @Memory: N/A
+# @Date: 2021-04-11 15:27:37
+# @Runtime: 296 ms
+# @Memory: 14.9 MB
 
-class Solution(object):
-    def nthUglyNumber(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        t2, t3, t5 = 0, 0, 0
-        count = 1
-        ans = [1]
-        while count < n:
-            r2, r3, r5 = 2 * ans[t2], 3 * ans[t3], 5 * ans[t5]
-            ans_tmp = min(r2, r3, r5)
-            if ans_tmp != ans[-1]:
-                count += 1
-                ans.append(ans_tmp)
-            if r2 == ans_tmp:
-                t2 += 1
-            elif r3 == ans_tmp:
-                t3 += 1
-            else:
-                t5 += 1
-        return ans[-1]
-        
-        
-        
-        
-        
-        
+class Solution:
+    def nthUglyNumber(self, n: int) -> int:
+        p2, p3, p5 = 0, 0, 0
+        nums = [1]
+        idx = 1
+        while idx < n:
+            num = min([nums[p2] * 2, nums[p3] * 3, nums[p5] * 5])
+            if num == nums[p2] * 2:
+                p2 += 1
+            elif num == nums[p3] * 3:
+                p3 += 1
+            elif num == nums[p5] * 5:
+                p5 += 1
+            # 5 * 3 == 3 * 5, 后续生成的最小值可能已经重复了, 应该跳过
+            if num <= nums[-1]:
+                continue
+            nums.append(num)
+            idx += 1
+        return nums[-1]
