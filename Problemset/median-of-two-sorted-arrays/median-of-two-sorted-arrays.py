@@ -1,9 +1,9 @@
 
 # @Title: 寻找两个正序数组的中位数 (Median of Two Sorted Arrays)
 # @Author: cocofe
-# @Date: 2018-04-03 16:43:55
-# @Runtime: 164 ms
-# @Memory: N/A
+# @Date: 2021-04-09 23:57:29
+# @Runtime: 52 ms
+# @Memory: 13.1 MB
 
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
