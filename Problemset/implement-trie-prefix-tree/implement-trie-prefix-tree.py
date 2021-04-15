@@ -1,9 +1,9 @@
 
 # @Title: 实现 Trie (前缀树) (Implement Trie (Prefix Tree))
 # @Author: cocofe
-# @Date: 2020-08-24 12:52:21
-# @Runtime: 292 ms
-# @Memory: 27.9 MB
+# @Date: 2021-04-14 00:13:45
+# @Runtime: 248 ms
+# @Memory: 28.6 MB
 
 class Trie(object):
 
