@@ -4,8 +4,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-cocofe-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-394/2063-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-177-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-395/2063-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-178-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-195-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -13,7 +13,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-04-27 00:28:21</b>
+    <b>最近一次更新: 2021-04-27 00:32:29</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -154,6 +154,7 @@
 |958|[二叉树的完全性检验](Problemset/check-completeness-of-a-binary-tree/README.md)|[Python](Problemset/check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py)|52.2%|中等|[树](https://leetcode-cn.com/tag/tree)|
 |948|[令牌放置](Problemset/bag-of-tokens/README.md)|[Python](Problemset/bag-of-tokens/bag-of-tokens.py)|38.6%|中等|[贪心算法](https://leetcode-cn.com/tag/greedy)<br>[排序](https://leetcode-cn.com/tag/sort)<br>[双指针](https://leetcode-cn.com/tag/two-pointers)|
 |941|[有效的山脉数组](Problemset/valid-mountain-array/README.md)|[Python](Problemset/valid-mountain-array/valid-mountain-array.py)|39.2%|简单|[数组](https://leetcode-cn.com/tag/array)|
+|938|[二叉搜索树的范围和](Problemset/range-sum-of-bst/README.md)|[Python3](Problemset/range-sum-of-bst/range-sum-of-bst.py)|78.4%|简单|[树](https://leetcode-cn.com/tag/tree)<br>[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)<br>[递归](https://leetcode-cn.com/tag/recursion)|
 |925|[长按键入](Problemset/long-pressed-name/README.md)|[Python](Problemset/long-pressed-name/long-pressed-name.py)|39.0%|简单|[双指针](https://leetcode-cn.com/tag/two-pointers)<br>[字符串](https://leetcode-cn.com/tag/string)|
 |914|[卡牌分组](Problemset/x-of-a-kind-in-a-deck-of-cards/README.md)|[Python](Problemset/x-of-a-kind-in-a-deck-of-cards/x-of-a-kind-in-a-deck-of-cards.py)|38.9%|简单|[数组](https://leetcode-cn.com/tag/array)<br>[数学](https://leetcode-cn.com/tag/math)|
 |897|[递增顺序搜索树](Problemset/increasing-order-search-tree/README.md)|[Python3](Problemset/increasing-order-search-tree/increasing-order-search-tree.py)|75.0%|简单|[树](https://leetcode-cn.com/tag/tree)<br>[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)<br>[递归](https://leetcode-cn.com/tag/recursion)|

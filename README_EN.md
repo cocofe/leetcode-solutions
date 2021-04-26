@@ -4,8 +4,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-cocofe-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-394/2063-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-177-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-395/2063-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-178-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-195-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -13,7 +13,7 @@
 
 <p align="center">
     <br>
-    <b>Last updated: 2021-04-27 00:28:21</b>
+    <b>Last updated: 2021-04-27 00:32:29</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -154,6 +154,7 @@
 |958|[Check Completeness of a Binary Tree](Problemset/check-completeness-of-a-binary-tree/README_EN.md)|[Python](Problemset/check-completeness-of-a-binary-tree/check-completeness-of-a-binary-tree.py)|52.2%|medium|[Tree](https://leetcode-cn.com/tag/tree)|
 |948|[Bag of Tokens](Problemset/bag-of-tokens/README_EN.md)|[Python](Problemset/bag-of-tokens/bag-of-tokens.py)|38.6%|medium|[Greedy](https://leetcode-cn.com/tag/greedy)<br>[Sort](https://leetcode-cn.com/tag/sort)<br>[Two Pointers](https://leetcode-cn.com/tag/two-pointers)|
 |941|[Valid Mountain Array](Problemset/valid-mountain-array/README_EN.md)|[Python](Problemset/valid-mountain-array/valid-mountain-array.py)|39.2%|easy|[Array](https://leetcode-cn.com/tag/array)|
+|938|[Range Sum of BST](Problemset/range-sum-of-bst/README_EN.md)|[Python3](Problemset/range-sum-of-bst/range-sum-of-bst.py)|78.4%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Recursion](https://leetcode-cn.com/tag/recursion)|
 |925|[Long Pressed Name](Problemset/long-pressed-name/README_EN.md)|[Python](Problemset/long-pressed-name/long-pressed-name.py)|39.0%|easy|[Two Pointers](https://leetcode-cn.com/tag/two-pointers)<br>[String](https://leetcode-cn.com/tag/string)|
 |914|[X of a Kind in a Deck of Cards](Problemset/x-of-a-kind-in-a-deck-of-cards/README_EN.md)|[Python](Problemset/x-of-a-kind-in-a-deck-of-cards/x-of-a-kind-in-a-deck-of-cards.py)|38.9%|easy|[Array](https://leetcode-cn.com/tag/array)<br>[Math](https://leetcode-cn.com/tag/math)|
 |897|[Increasing Order Search Tree](Problemset/increasing-order-search-tree/README_EN.md)|[Python3](Problemset/increasing-order-search-tree/increasing-order-search-tree.py)|75.0%|easy|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Recursion](https://leetcode-cn.com/tag/recursion)|
