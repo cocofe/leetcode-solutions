@@ -4,8 +4,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-cocofe-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-395/2063-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Easy-178-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-396/2063-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Easy-179-green.svg?" alt="">
     <img src="https://img.shields.io/badge/Medium-195-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
@@ -13,7 +13,7 @@
 
 <p align="center">
     <br>
-    <b>Last updated: 2021-04-27 00:32:29</b>
+    <b>Last updated: 2021-04-27 00:43:45</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -186,7 +186,7 @@
 |692|[Top K Frequent Words](Problemset/top-k-frequent-words/README_EN.md)|[Python](Problemset/top-k-frequent-words/top-k-frequent-words.py)|52.2%|medium|[Heap](https://leetcode-cn.com/tag/heap)<br>[Trie](https://leetcode-cn.com/tag/trie)<br>[Hash Table](https://leetcode-cn.com/tag/hash-table)|
 |674|[Longest Continuous Increasing Subsequence](Problemset/longest-continuous-increasing-subsequence/README_EN.md)|[Python](Problemset/longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.py)|47.5%|easy|[Array](https://leetcode-cn.com/tag/array)|
 |673|[Number of Longest Increasing Subsequence](Problemset/number-of-longest-increasing-subsequence/README_EN.md)|[Python](Problemset/number-of-longest-increasing-subsequence/number-of-longest-increasing-subsequence.py)|37.7%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
-|662|[Maximum Width of Binary Tree](Problemset/maximum-width-of-binary-tree/README_EN.md)|[Python](Problemset/maximum-width-of-binary-tree/maximum-width-of-binary-tree.py)|39.7%|medium|[Tree](https://leetcode-cn.com/tag/tree)|
+|662|[Maximum Width of Binary Tree](Problemset/maximum-width-of-binary-tree/README_EN.md)|[Python](Problemset/maximum-width-of-binary-tree/maximum-width-of-binary-tree.py)|39.8%|medium|[Tree](https://leetcode-cn.com/tag/tree)|
 |654|[Maximum Binary Tree](Problemset/maximum-binary-tree/README_EN.md)|[Python](Problemset/maximum-binary-tree/maximum-binary-tree.py)|81.1%|medium|[Tree](https://leetcode-cn.com/tag/tree)|
 |650|[2 Keys Keyboard](Problemset/2-keys-keyboard/README_EN.md)|[Python](Problemset/2-keys-keyboard/2-keys-keyboard.py)|52.5%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |647|[Palindromic Substrings](Problemset/palindromic-substrings/README_EN.md)|[Python](Problemset/palindromic-substrings/palindromic-substrings.py)|65.2%|medium|[String](https://leetcode-cn.com/tag/string)<br>[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
@@ -280,6 +280,7 @@
 |207|[Course Schedule](Problemset/course-schedule/README_EN.md)|[Python3](Problemset/course-schedule/course-schedule.py)|54.7%|medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)<br>[Graph](https://leetcode-cn.com/tag/graph)<br>[Topological Sort](https://leetcode-cn.com/tag/topological-sort)|
 |206|[Reverse Linked List](Problemset/reverse-linked-list/README_EN.md)|[Python](Problemset/reverse-linked-list/reverse-linked-list.py)|71.6%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
 |205|[Isomorphic Strings](Problemset/isomorphic-strings/README_EN.md)|[Python](Problemset/isomorphic-strings/isomorphic-strings.py)|50.0%|easy|[Hash Table](https://leetcode-cn.com/tag/hash-table)|
+|202|[Happy Number](Problemset/happy-number/README_EN.md)|[Python3](Problemset/happy-number/happy-number.py)|61.3%|easy|[Hash Table](https://leetcode-cn.com/tag/hash-table)<br>[Math](https://leetcode-cn.com/tag/math)|
 |200|[Number of Islands](Problemset/number-of-islands/README_EN.md)|[Python](Problemset/number-of-islands/number-of-islands.py)|53.5%|medium|[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)<br>[Union Find](https://leetcode-cn.com/tag/union-find)|
 |199|[Binary Tree Right Side View](Problemset/binary-tree-right-side-view/README_EN.md)|[Python](Problemset/binary-tree-right-side-view/binary-tree-right-side-view.py)|64.9%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Depth-first Search](https://leetcode-cn.com/tag/depth-first-search)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)<br>[Recursion](https://leetcode-cn.com/tag/recursion)<br>[Queue](https://leetcode-cn.com/tag/queue)|
 |198|[House Robber](Problemset/house-robber/README_EN.md)|[Python](Problemset/house-robber/house-robber.py)<br>[Python3](Problemset/house-robber/house-robber.py)|49.2%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|

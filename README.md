@@ -4,8 +4,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-cocofe-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-395/2063-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/简单-178-green.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-396/2063-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/简单-179-green.svg?" alt="">
     <img src="https://img.shields.io/badge/中等-195-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
@@ -13,7 +13,7 @@
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-04-27 00:32:29</b>
+    <b>最近一次更新: 2021-04-27 00:43:45</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -186,7 +186,7 @@
 |692|[前K个高频单词](Problemset/top-k-frequent-words/README.md)|[Python](Problemset/top-k-frequent-words/top-k-frequent-words.py)|52.2%|中等|[堆](https://leetcode-cn.com/tag/heap)<br>[字典树](https://leetcode-cn.com/tag/trie)<br>[哈希表](https://leetcode-cn.com/tag/hash-table)|
 |674|[最长连续递增序列](Problemset/longest-continuous-increasing-subsequence/README.md)|[Python](Problemset/longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.py)|47.5%|简单|[数组](https://leetcode-cn.com/tag/array)|
 |673|[最长递增子序列的个数](Problemset/number-of-longest-increasing-subsequence/README.md)|[Python](Problemset/number-of-longest-increasing-subsequence/number-of-longest-increasing-subsequence.py)|37.7%|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
-|662|[二叉树最大宽度](Problemset/maximum-width-of-binary-tree/README.md)|[Python](Problemset/maximum-width-of-binary-tree/maximum-width-of-binary-tree.py)|39.7%|中等|[树](https://leetcode-cn.com/tag/tree)|
+|662|[二叉树最大宽度](Problemset/maximum-width-of-binary-tree/README.md)|[Python](Problemset/maximum-width-of-binary-tree/maximum-width-of-binary-tree.py)|39.8%|中等|[树](https://leetcode-cn.com/tag/tree)|
 |654|[最大二叉树](Problemset/maximum-binary-tree/README.md)|[Python](Problemset/maximum-binary-tree/maximum-binary-tree.py)|81.1%|中等|[树](https://leetcode-cn.com/tag/tree)|
 |650|[只有两个键的键盘](Problemset/2-keys-keyboard/README.md)|[Python](Problemset/2-keys-keyboard/2-keys-keyboard.py)|52.5%|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |647|[回文子串](Problemset/palindromic-substrings/README.md)|[Python](Problemset/palindromic-substrings/palindromic-substrings.py)|65.2%|中等|[字符串](https://leetcode-cn.com/tag/string)<br>[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
@@ -280,6 +280,7 @@
 |207|[课程表](Problemset/course-schedule/README.md)|[Python3](Problemset/course-schedule/course-schedule.py)|54.7%|中等|[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)<br>[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)<br>[图](https://leetcode-cn.com/tag/graph)<br>[拓扑排序](https://leetcode-cn.com/tag/topological-sort)|
 |206|[反转链表](Problemset/reverse-linked-list/README.md)|[Python](Problemset/reverse-linked-list/reverse-linked-list.py)|71.6%|简单|[链表](https://leetcode-cn.com/tag/linked-list)|
 |205|[同构字符串](Problemset/isomorphic-strings/README.md)|[Python](Problemset/isomorphic-strings/isomorphic-strings.py)|50.0%|简单|[哈希表](https://leetcode-cn.com/tag/hash-table)|
+|202|[快乐数](Problemset/happy-number/README.md)|[Python3](Problemset/happy-number/happy-number.py)|61.3%|简单|[哈希表](https://leetcode-cn.com/tag/hash-table)<br>[数学](https://leetcode-cn.com/tag/math)|
 |200|[岛屿数量](Problemset/number-of-islands/README.md)|[Python](Problemset/number-of-islands/number-of-islands.py)|53.5%|中等|[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)<br>[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)<br>[并查集](https://leetcode-cn.com/tag/union-find)|
 |199|[二叉树的右视图](Problemset/binary-tree-right-side-view/README.md)|[Python](Problemset/binary-tree-right-side-view/binary-tree-right-side-view.py)|64.9%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[深度优先搜索](https://leetcode-cn.com/tag/depth-first-search)<br>[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)<br>[递归](https://leetcode-cn.com/tag/recursion)<br>[队列](https://leetcode-cn.com/tag/queue)|
 |198|[打家劫舍](Problemset/house-robber/README.md)|[Python](Problemset/house-robber/house-robber.py)<br>[Python3](Problemset/house-robber/house-robber.py)|49.2%|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
