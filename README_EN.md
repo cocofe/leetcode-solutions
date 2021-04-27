@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/User-cocofe-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/Solved-404/2063-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/Solved-405/2063-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/Easy-179-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/Medium-203-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/Medium-204-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/Hard-22-red.svg?" alt="">
 </p>
 <h1 align="center">My LeetCode Solutions</h1>
 
 <p align="center">
     <br>
-    <b>Last updated: 2021-04-28 02:02:09</b>
+    <b>Last updated: 2021-04-28 02:40:15</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -83,7 +83,7 @@
 |面试题 10.05|[Sparse Array Search LCCI](Problemset/sparse-array-search-lcci/README_EN.md)|[Python](Problemset/sparse-array-search-lcci/sparse-array-search-lcci.py)|54.8%|easy|[Binary Search](https://leetcode-cn.com/tag/binary-search)|
 |面试题 08.11|[Coin LCCI](Problemset/coin-lcci/README_EN.md)|[Python](Problemset/coin-lcci/coin-lcci.py)|49.3%|medium|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
 |面试题 08.01|[Three Steps Problem LCCI](Problemset/three-steps-problem-lcci/README_EN.md)|[Python](Problemset/three-steps-problem-lcci/three-steps-problem-lcci.py)|36.1%|easy|[Dynamic Programming](https://leetcode-cn.com/tag/dynamic-programming)|
-|面试题 02.03|[Delete Middle Node LCCI](Problemset/delete-middle-node-lcci/README_EN.md)|[Python](Problemset/delete-middle-node-lcci/delete-middle-node-lcci.py)|85.2%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
+|面试题 02.03|[Delete Middle Node LCCI](Problemset/delete-middle-node-lcci/README_EN.md)|[Python](Problemset/delete-middle-node-lcci/delete-middle-node-lcci.py)|85.1%|easy|[Linked List](https://leetcode-cn.com/tag/linked-list)|
 |面试题 04.03|[List of Depth LCCI](Problemset/list-of-depth-lcci/README_EN.md)|[Python](Problemset/list-of-depth-lcci/list-of-depth-lcci.py)|80.5%|medium|[Tree](https://leetcode-cn.com/tag/tree)<br>[Breadth-first Search](https://leetcode-cn.com/tag/breadth-first-search)|
 |1833|[Maximum Ice Cream Bars](Problemset/maximum-ice-cream-bars/README_EN.md)|[Python3](Problemset/maximum-ice-cream-bars/maximum-ice-cream-bars.py)|100.5%|medium|[Sort](https://leetcode-cn.com/tag/sort)<br>[Array](https://leetcode-cn.com/tag/array)|
 |1832|[Check if the Sentence Is Pangram](Problemset/check-if-the-sentence-is-pangram/README_EN.md)|[Python3](Problemset/check-if-the-sentence-is-pangram/check-if-the-sentence-is-pangram.py)|83.8%|easy|[String](https://leetcode-cn.com/tag/string)|
@@ -200,6 +200,7 @@
 |633|[Sum of Square Numbers](Problemset/sum-of-square-numbers/README_EN.md)|[Python3](Problemset/sum-of-square-numbers/sum-of-square-numbers.py)|35.9%|medium|[Math](https://leetcode-cn.com/tag/math)|
 |627|[Swap Salary](Problemset/swap-salary/README_EN.md)|[SQL](Problemset/swap-salary/swap-salary.sql)|80.3%|easy||
 |617|[Merge Two Binary Trees](Problemset/merge-two-binary-trees/README_EN.md)|[Python](Problemset/merge-two-binary-trees/merge-two-binary-trees.py)|78.7%|easy|[Tree](https://leetcode-cn.com/tag/tree)|
+|611|[Valid Triangle Number](Problemset/valid-triangle-number/README_EN.md)|[Python3](Problemset/valid-triangle-number/valid-triangle-number.py)|49.4%|medium|[Array](https://leetcode-cn.com/tag/array)|
 |607|[Sales Person](Problemset/sales-person/README_EN.md)🔒|[SQL](Problemset/sales-person/sales-person.sql)|66.7%|easy||
 |597|[Friend Requests I: Overall Acceptance Rate](Problemset/friend-requests-i-overall-acceptance-rate/README_EN.md)🔒|[SQL](Problemset/friend-requests-i-overall-acceptance-rate/friend-requests-i-overall-acceptance-rate.sql)|44.3%|easy||
 |595|[Big Countries](Problemset/big-countries/README_EN.md)|[SQL](Problemset/big-countries/big-countries.sql)|79.4%|easy||

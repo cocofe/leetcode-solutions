@@ -4,16 +4,16 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/KivenCkl/LeetCode_Helper/master/imgs/leetcode-logo.png"></p>
 <p align="center">
     <img src="https://img.shields.io/badge/用户-cocofe-blue.svg?" alt="">
-    <img src="https://img.shields.io/badge/已解决-404/2063-blue.svg?" alt="">
+    <img src="https://img.shields.io/badge/已解决-405/2063-blue.svg?" alt="">
     <img src="https://img.shields.io/badge/简单-179-green.svg?" alt="">
-    <img src="https://img.shields.io/badge/中等-203-orange.svg?" alt="">
+    <img src="https://img.shields.io/badge/中等-204-orange.svg?" alt="">
     <img src="https://img.shields.io/badge/困难-22-red.svg?" alt="">
 </p>
 <h1 align="center">LeetCode 的解答</h1>
 
 <p align="center">
     <br>
-    <b>最近一次更新: 2021-04-28 02:02:09</b>
+    <b>最近一次更新: 2021-04-28 02:40:15</b>
     <br>
 </p>
 <!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
@@ -83,7 +83,7 @@
 |面试题 10.05|[稀疏数组搜索](Problemset/sparse-array-search-lcci/README.md)|[Python](Problemset/sparse-array-search-lcci/sparse-array-search-lcci.py)|54.8%|简单|[二分查找](https://leetcode-cn.com/tag/binary-search)|
 |面试题 08.11|[硬币](Problemset/coin-lcci/README.md)|[Python](Problemset/coin-lcci/coin-lcci.py)|49.3%|中等|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
 |面试题 08.01|[三步问题](Problemset/three-steps-problem-lcci/README.md)|[Python](Problemset/three-steps-problem-lcci/three-steps-problem-lcci.py)|36.1%|简单|[动态规划](https://leetcode-cn.com/tag/dynamic-programming)|
-|面试题 02.03|[删除中间节点](Problemset/delete-middle-node-lcci/README.md)|[Python](Problemset/delete-middle-node-lcci/delete-middle-node-lcci.py)|85.2%|简单|[链表](https://leetcode-cn.com/tag/linked-list)|
+|面试题 02.03|[删除中间节点](Problemset/delete-middle-node-lcci/README.md)|[Python](Problemset/delete-middle-node-lcci/delete-middle-node-lcci.py)|85.1%|简单|[链表](https://leetcode-cn.com/tag/linked-list)|
 |面试题 04.03|[特定深度节点链表](Problemset/list-of-depth-lcci/README.md)|[Python](Problemset/list-of-depth-lcci/list-of-depth-lcci.py)|80.5%|中等|[树](https://leetcode-cn.com/tag/tree)<br>[广度优先搜索](https://leetcode-cn.com/tag/breadth-first-search)|
 |1833|[雪糕的最大数量](Problemset/maximum-ice-cream-bars/README.md)|[Python3](Problemset/maximum-ice-cream-bars/maximum-ice-cream-bars.py)|100.5%|中等|[排序](https://leetcode-cn.com/tag/sort)<br>[数组](https://leetcode-cn.com/tag/array)|
 |1832|[判断句子是否为全字母句](Problemset/check-if-the-sentence-is-pangram/README.md)|[Python3](Problemset/check-if-the-sentence-is-pangram/check-if-the-sentence-is-pangram.py)|83.8%|简单|[字符串](https://leetcode-cn.com/tag/string)|
@@ -200,6 +200,7 @@
 |633|[平方数之和](Problemset/sum-of-square-numbers/README.md)|[Python3](Problemset/sum-of-square-numbers/sum-of-square-numbers.py)|35.9%|中等|[数学](https://leetcode-cn.com/tag/math)|
 |627|[变更性别](Problemset/swap-salary/README.md)|[SQL](Problemset/swap-salary/swap-salary.sql)|80.3%|简单||
 |617|[合并二叉树](Problemset/merge-two-binary-trees/README.md)|[Python](Problemset/merge-two-binary-trees/merge-two-binary-trees.py)|78.7%|简单|[树](https://leetcode-cn.com/tag/tree)|
+|611|[有效三角形的个数](Problemset/valid-triangle-number/README.md)|[Python3](Problemset/valid-triangle-number/valid-triangle-number.py)|49.4%|中等|[数组](https://leetcode-cn.com/tag/array)|
 |607|[销售员](Problemset/sales-person/README.md)🔒|[SQL](Problemset/sales-person/sales-person.sql)|66.7%|简单||
 |597|[好友申请 I：总体通过率](Problemset/friend-requests-i-overall-acceptance-rate/README.md)🔒|[SQL](Problemset/friend-requests-i-overall-acceptance-rate/friend-requests-i-overall-acceptance-rate.sql)|44.3%|简单||
 |595|[大的国家](Problemset/big-countries/README.md)|[SQL](Problemset/big-countries/big-countries.sql)|79.4%|简单||
