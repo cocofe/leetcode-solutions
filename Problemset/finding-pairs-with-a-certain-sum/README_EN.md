@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5761. Finding Pairs With a Certain Sum](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum/)
+# [1865. Finding Pairs With a Certain Sum](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum/)
 
 ## Description
 

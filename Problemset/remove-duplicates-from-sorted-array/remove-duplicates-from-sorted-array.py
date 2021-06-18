@@ -18,3 +18,7 @@ class Solution:
         return p + 1
 
 
+     slow += 1
+                nums[slow] = nums[fast]
+                fast += 1
+        return len(nums) - count

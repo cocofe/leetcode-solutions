@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5751. Maximum Distance Between a Pair of Values](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values/)
+# [1855. Maximum Distance Between a Pair of Values](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values/)
 
 ## Description
 

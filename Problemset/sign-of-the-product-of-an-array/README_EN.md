@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5726. Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)
+# [1822. Sign of the Product of an Array](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)
 
 ## Description
 

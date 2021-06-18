@@ -25,3 +25,6 @@ class Solution:
         return dp[amount]
 
                 
+        dp[i][j] = dp[i][j-1]
+        ans = dp[amount][len(coins)-1]
+        return -1 if ans == float('inf') else ans

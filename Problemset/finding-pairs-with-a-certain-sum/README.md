@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5761. 找出和为指定值的下标对](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum/)
+# [1865. 找出和为指定值的下标对](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum/)
 
 ## 题目描述
 

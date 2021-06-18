@@ -12,3 +12,6 @@ class Solution:
             curr = max(prev, pprev+num)
             pprev, prev = prev, curr
         return prev
+        dp[i] = max(dp[i-2] + num, dp[i-3] + num)
+            ans = max(ans, dp[i])
+        return ans

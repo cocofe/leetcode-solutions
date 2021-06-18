@@ -2,8 +2,8 @@
 # @Title: 找出所有子集的异或总和再求和 (Sum of All Subset XOR Totals)
 # @Author: cocofe
 # @Date: 2021-05-16 10:43:34
-# @Runtime: 296 ms
-# @Memory: 14.9 MB
+# @Runtime: 360 ms
+# @Memory: 14.8 MB
 
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:

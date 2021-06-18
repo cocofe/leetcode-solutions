@@ -55,5 +55,5 @@
 
 ## 相似题目
 
-- [2的幂](../power-of-two/README.md)
+- [2 的幂](../power-of-two/README.md)
 - [3的幂](../power-of-three/README.md)

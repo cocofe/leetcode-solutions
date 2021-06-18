@@ -52,13 +52,7 @@
 </ul>
 
 <p>&nbsp;</p>
-
-<p><strong>Follow up:</strong></p>
-
-<p>Recursive solution is trivial, could you do it iteratively?</p>
-
-<p>&nbsp;</p>
-
+<strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?
 
 ## Related Topics
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5724. Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)
+# [1818. Minimum Absolute Sum Difference](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)
 
 ## Description
 

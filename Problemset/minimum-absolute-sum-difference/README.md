@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5724. 绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)
+# [1818. 绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference/)
 
 ## 题目描述
 

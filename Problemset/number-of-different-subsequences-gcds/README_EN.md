@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5725. Number of Different Subsequences GCDs](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds/)
+# [1819. Number of Different Subsequences GCDs](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5727. Find the Winner of the Circular Game](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)
+# [1823. Find the Winner of the Circular Game](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/)
 
 ## Description
 

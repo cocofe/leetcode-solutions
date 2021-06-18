@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5726. 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)
+# [1822. 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)
 
 ## 题目描述
 

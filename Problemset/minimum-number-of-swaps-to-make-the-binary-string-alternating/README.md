@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5760. 构成交替字符串需要的最小交换次数](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/)
+# [1864. 构成交替字符串需要的最小交换次数](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/)
 
 ## 题目描述
 

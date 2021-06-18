@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5728. Minimum Sideway Jumps](https://leetcode-cn.com/problems/minimum-sideway-jumps/)
+# [1824. Minimum Sideway Jumps](https://leetcode-cn.com/problems/minimum-sideway-jumps/)
 
 ## Description
 

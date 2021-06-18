@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5759. Sum of All Subset XOR Totals](https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals/)
+# [1863. Sum of All Subset XOR Totals](https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals/)
 
 ## Description
 

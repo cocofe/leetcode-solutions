@@ -26,3 +26,9 @@ class FooBar:
             # printBar() outputs "bar". Do not change or remove this line.
             printBar()
             self.foo_semaphore.release()
+           if self.idx % 2 != 1:
+                    self.cond.wait()
+                # printBar() outputs "bar". Do not change or remove this line.
+                printBar()
+                self.idx += 1
+                self.cond.notify()

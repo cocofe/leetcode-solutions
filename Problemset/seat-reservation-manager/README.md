@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5731. 座位预约管理系统](https://leetcode-cn.com/problems/seat-reservation-manager/)
+# [1845. 座位预约管理系统](https://leetcode-cn.com/problems/seat-reservation-manager/)
 
 ## 题目描述
 

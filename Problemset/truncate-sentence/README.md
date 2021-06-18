@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5722. 截断句子](https://leetcode-cn.com/problems/truncate-sentence/)
+# [1816. 截断句子](https://leetcode-cn.com/problems/truncate-sentence/)
 
 ## 题目描述
 

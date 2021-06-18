@@ -2,8 +2,8 @@
 # @Title: 将字符串拆分为递减的连续值 (Splitting a String Into Descending Consecutive Values)
 # @Author: cocofe
 # @Date: 2021-05-02 11:11:10
-# @Runtime: 56 ms
-# @Memory: 15 MB
+# @Runtime: 36 ms
+# @Memory: 15.1 MB
 
 class Solution:
     def splitString(self, s: str) -> bool:

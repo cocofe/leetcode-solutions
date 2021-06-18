@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5751. 下标对中的最大距离](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values/)
+# [1855. 下标对中的最大距离](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values/)
 
 ## 题目描述
 

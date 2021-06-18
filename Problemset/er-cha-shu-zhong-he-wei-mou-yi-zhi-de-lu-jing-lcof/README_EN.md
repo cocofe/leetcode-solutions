@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [面试题34. 二叉树中和为某一值的路径 LCOF](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)
+# [剑指 Offer 34. 二叉树中和为某一值的路径 LCOF](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/)
 
 ## Description
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5760. Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/)
+# [1864. Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/)
 
 ## Description
 

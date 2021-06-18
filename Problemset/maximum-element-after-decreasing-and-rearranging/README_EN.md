@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5732. Maximum Element After Decreasing and Rearranging](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)
+# [1846. Maximum Element After Decreasing and Rearranging](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)
 
 ## Description
 

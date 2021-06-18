@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5730. 将所有数字用字符替换](https://leetcode-cn.com/problems/replace-all-digits-with-characters/)
+# [1844. 将所有数字用字符替换](https://leetcode-cn.com/problems/replace-all-digits-with-characters/)
 
 ## 题目描述
 

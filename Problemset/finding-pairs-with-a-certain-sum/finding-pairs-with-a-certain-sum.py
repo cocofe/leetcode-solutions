@@ -2,8 +2,8 @@
 # @Title: 找出和为指定值的下标对 (Finding Pairs With a Certain Sum)
 # @Author: cocofe
 # @Date: 2021-05-16 11:35:28
-# @Runtime: 380 ms
-# @Memory: 43.4 MB
+# @Runtime: 456 ms
+# @Memory: 43.5 MB
 
 import threading
 class FindSumPairs:

@@ -68,7 +68,7 @@
 ## 相似题目
 
 - [颠倒二进制位](../reverse-bits/README.md)
-- [2的幂](../power-of-two/README.md)
+- [2 的幂](../power-of-two/README.md)
 - [比特位计数](../counting-bits/README.md)
 - [二进制手表](../binary-watch/README.md)
 - [汉明距离](../hamming-distance/README.md)

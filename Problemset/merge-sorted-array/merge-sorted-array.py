@@ -26,3 +26,15 @@ class Solution:
                 nums1[n_right] = nums2[n2]
                 n2 -= 1
                 n_right -= 1
+ nums1[tail1_idx]
+                nums1[tail1_idx] = 0
+                nums1[tail] = tmp
+                tail1_idx -= 1
+            tail -= 1
+        while tail2_idx >= 0:
+            nums1[tail] = nums2[tail2_idx]
+            tail2_idx -= 1
+            tail -= 1
+
+
+

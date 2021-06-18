@@ -1,7 +1,7 @@
 
 | [English](README_EN.md) | 简体中文 |
 
-# [5728. 最少侧跳次数](https://leetcode-cn.com/problems/minimum-sideway-jumps/)
+# [1824. 最少侧跳次数](https://leetcode-cn.com/problems/minimum-sideway-jumps/)
 
 ## 题目描述
 

@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5731. Seat Reservation Manager](https://leetcode-cn.com/problems/seat-reservation-manager/)
+# [1845. Seat Reservation Manager](https://leetcode-cn.com/problems/seat-reservation-manager/)
 
 ## Description
 

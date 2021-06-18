@@ -1,5 +1,5 @@
 
-# @Title: 常数时间插入、删除和获取随机元素 (Insert Delete GetRandom O(1))
+# @Title: O(1) 时间插入、删除和获取随机元素 (Insert Delete GetRandom O(1))
 # @Author: cocofe
 # @Date: 2020-09-29 22:33:51
 # @Runtime: 296 ms

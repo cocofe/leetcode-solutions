@@ -18,3 +18,11 @@ class Solution:
             else:
                 right = mid
         return nums[left]
+ 会break
+                if nums[right] >= nums[mid]:
+                    right = mid - 1
+                else:
+                    left = mid + 1
+            else:
+                right = mid
+        return nums[left]

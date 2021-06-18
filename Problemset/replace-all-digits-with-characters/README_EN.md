@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5730. Replace All Digits with Characters](https://leetcode-cn.com/problems/replace-all-digits-with-characters/)
+# [1844. Replace All Digits with Characters](https://leetcode-cn.com/problems/replace-all-digits-with-characters/)
 
 ## Description
 

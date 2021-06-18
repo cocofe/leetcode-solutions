@@ -1,7 +1,7 @@
 
 | English | [简体中文](README.md) |
 
-# [5747. Splitting a String Into Descending Consecutive Values](https://leetcode-cn.com/problems/splitting-a-string-into-descending-consecutive-values/)
+# [1849. Splitting a String Into Descending Consecutive Values](https://leetcode-cn.com/problems/splitting-a-string-into-descending-consecutive-values/)
 
 ## Description
 

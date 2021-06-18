@@ -2,8 +2,8 @@
 # @Title: 座位预约管理系统 (Seat Reservation Manager)
 # @Author: cocofe
 # @Date: 2021-05-01 23:36:26
-# @Runtime: 804 ms
-# @Memory: 41.6 MB
+# @Runtime: 792 ms
+# @Memory: 40.8 MB
 
 class SeatManager:
 

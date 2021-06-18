@@ -28,3 +28,9 @@ class Solution:
         return ans
 
 
+prev[0])
+            prev[0] = node.val
+            items.append(prev[0])
+            helper(node.right)
+        helper(root)
+        return ans[0]
