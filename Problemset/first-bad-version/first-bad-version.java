@@ -1,8 +1,8 @@
 
 // @Title: 第一个错误的版本 (First Bad Version)
 // @Author: cocofe
-// @Date: 2021-06-13 12:39:35
-// @Runtime: 16 ms
+// @Date: 2021-07-17 00:50:00
+// @Runtime: 11 ms
 // @Memory: 35.2 MB
 
 /* The isBadVersion API is defined in the parent class VersionControl.
